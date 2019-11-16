@@ -5,7 +5,7 @@ let friends = require('./app/data/friends.js');
 
 //Set Up Express
 let app = express();
-let PORT = process.env.PORT || 8080;
+let PORT = process.env.PORT || 3000;
 
 //Data Parsing
 app.use(express.urlencoded({ extended: true }));
