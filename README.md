@@ -1,7 +1,7 @@
 ## friendFinder
 
 ## Try it out here:
-https://friendfinder-brennen.herokuapp.com/
+https://radiant-inlet-40538.herokuapp.com/
 
 ## Application Purpose:
 This application is a Friend Finder. There is a survey of 10 questions. When a user fills out the survey, it compares their scores for each question against the other users in the database. It returns the user with the smallest difference in score as the friend match. It also saves the users data for future users to be matched with.
